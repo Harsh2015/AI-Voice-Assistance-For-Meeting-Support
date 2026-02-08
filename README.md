@@ -5,10 +5,10 @@ A multimodal web application that summarizes **audio and text-based meetings** i
 ## 📸 Output Screenshots
 
 ### 🎙️ Audio Input Summary
-![Audio Summary Output](Project_Results/Screenshot 2025-09-23 141540.png)
+![Audio Summary Output](Project_Results/text_input.png)
 
 ### 📝 Text Input Summary
-![Text Summary Output](Project_Results/Screenshot 2026-02-08 232715.png)
+![Text Summary Output](Project_Results/audio_input.png)
 
 ### 😊 Sentiment Analysis
-![Sentiment Output](Project_Results/Screenshot 2025-09-23 141540.png)
+![Sentiment Output](Project_Results/final_output.png)
